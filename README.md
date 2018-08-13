@@ -1,1 +1,3 @@
-# sequences-javascript
+# Mathematical Sequences - NodeJS
+
+* fibonacci
